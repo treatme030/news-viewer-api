@@ -1,2 +1,1 @@
-# react-news
-외부 API 연동
+# react-news-viewer-api
